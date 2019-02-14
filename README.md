@@ -1,1 +1,1 @@
-# pyglet-polish-docs
+To jest polska dokumentacja bibloteki Pyglet.
