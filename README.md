@@ -15,4 +15,15 @@ Obsługuje okienkowanie, obsługę zdarzeń interfejsu użytkownika (Event Handl
 * pyglet jest dostępny na licencji open source BSD, co pozwala na użycie go zarówno w projektach komercyjnych, jak i innych projektach open source z bardzo małymi ograniczeniami.
 * Wspiera wersje Python 2 i Python 3. Wybierz swój ulubiony!
 
+### Projekty używające pygleta:
+
+pyglet jest dość lekką biblioteką, która czyni ją idealną do budowania. Oto kilka projektów, które wykorzystują pyglet "pod maską".
+
+| Projekt | Strona |
+| ------ | ------ |
+| Cocos2d | http://python.cocos2d.org/index.html |
+| Arcade | http://arcade.academy/ |
+
+# Wpadnij na nasz discord! https://discord.gg/QXyegWe
+
 Angielska wersja Dokumentacji: https://bitbucket.org/pyglet/pyglet/wiki/Documentation
